@@ -1,4 +1,6 @@
 html {
     scroll-behavior: smooth;
+}
+body {
     background: linear-gradient(18deg, #e37682, #a58fe9);
 }
