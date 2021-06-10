@@ -16,7 +16,7 @@ nav {
 nav #backButton {
     float: left;
     display: block;
-    color: #EEEEEE;
+    color: #74757A;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -31,8 +31,8 @@ div {
 }
 
 body {
-    background-color: #74757A;
-    color: #EEEEEE;
+    background-color: #EEEEEE;
+    color: #74757A;
     
 }
 
@@ -43,7 +43,7 @@ h1, h2, p {
 #box {
     margin-top: 200px;
     text-align: center;
-    border: 1px solid #EEEEEE;
+    border: 1px solid #74757A;
     padding: 10px;
     margin-right: auto;
     margin-left: auto;
