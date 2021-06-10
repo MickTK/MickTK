@@ -1,6 +1,80 @@
 html {
     scroll-behavior: smooth;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+/* The navigation bar */
+nav {
+    overflow: hidden;
+    background-color: #333333ff;
+    position: fixed; /* Set the navbar to fixed position */
+    top: 0; /* Position the navbar at the top of the page */
+    width: 100%; /* Full width */
+    left: 0;
+    display: flex;
+}
+nav #backButton {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+nav #homeButton {
+    display: block;
+    padding: 14px 16px;
+    text-align: center;
+}
+div {
+    margin-top: 30px; /* Add a top margin to avoid content overlay */
+}
+
 body {
-    background: linear-gradient(90deg, #e37682, #a58fe9);
+    background-color: #141515;
+    color: #E4E5E5;
+    
 }
+
+h1, h2, p {
+    text-align: center;
+}
+
+#box {
+    margin-top: 200px;
+    text-align: center;
+    border: 1px solid #E4E5E5;
+    padding: 10px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+@media only screen and (min-width: 768px)
+{
+    [class*="col-"] {
+        padding: 15px;
+    }
+}
+@media only screen and (max-width: 768px)
+{
+    [class*="col-"] {
+        float: none;
+        width: 100%;
+        padding: 15px;
+    }
+}
+
+/* Colonne */
+.col-1 {width: 8.33%;}
+.col-2 {width: 16.66%;}
+.col-3 {width: 25%;}
+.col-4 {width: 33.33%;}
+.col-5 {width: 41.66%;}
+.col-6 {width: 50%;}
+.col-7 {width: 58.33%;}
+.col-8 {width: 66.66%;}
+.col-9 {width: 75%;}
+.col-10 {width: 83.33%;}
+.col-11 {width: 91.66%;}
+.col-12 {width: 100%;}
