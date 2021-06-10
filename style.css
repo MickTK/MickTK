@@ -2,7 +2,17 @@
 
 html {
     scroll-behavior: smooth;
+    
+}
+
+h1 {
     font-family: 'Raleway', sans-serif;
+    text-align: center;
+    letter-spacing: 5px;
+    margin: 50px;
+}
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 /* Header */
@@ -24,15 +34,11 @@ body {
     color: #74757A;
 }
 
-h1, h2, p {
+.box {
     text-align: center;
-    letter-spacing: 5px;
-}
-
-#box {
     margin-top: 50px;
-    text-align: center;
-    border: 1px solid #74757A;
+    border: 2px solid red;
+    border-radius: 20px 0 20px 0;
     padding: 10px;
     margin-right: auto;
     margin-left: auto;
