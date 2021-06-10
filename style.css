@@ -6,7 +6,7 @@ html {
 /* The navigation bar */
 nav {
     overflow: hidden;
-    background-color: #333333ff;
+    background-color: #74757A;
     position: fixed; /* Set the navbar to fixed position */
     top: 0; /* Position the navbar at the top of the page */
     width: 100%; /* Full width */
@@ -16,7 +16,7 @@ nav {
 nav #backButton {
     float: left;
     display: block;
-    color: #f2f2f2;
+    color: #EEEEEE;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -31,8 +31,8 @@ div {
 }
 
 body {
-    background-color: #141515;
-    color: #E4E5E5;
+    background-color: #74757A;
+    color: #EEEEEE;
     
 }
 
@@ -43,7 +43,7 @@ h1, h2, p {
 #box {
     margin-top: 200px;
     text-align: center;
-    border: 1px solid #E4E5E5;
+    border: 1px solid #EEEEEE;
     padding: 10px;
     margin-right: auto;
     margin-left: auto;
