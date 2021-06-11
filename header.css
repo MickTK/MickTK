@@ -1,0 +1,37 @@
+nav {
+    overflow: hidden;
+    display: block;
+    padding: 0px;
+    text-align: center;
+    margin-top: 50px;
+}
+nav * {
+    margin: auto;
+    padding: 0%;
+    text-align: center;
+}
+nav ul {
+    list-style: none;
+    display: inline-block;
+}
+nav ul li {
+    float: left;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+a {
+    color: #74757A;
+    text-decoration: none;
+}
+a:link {
+    color: #74757A;
+    -webkit-transition: color 500ms linear;
+    -ms-transition: color 500ms linear;
+    transition: color 500ms linear;
+}
+a:hover {
+    color: black;
+    -webkit-transition: color 500ms linear;
+    -ms-transition: color 500ms linear;
+    transition: color 500ms linear;
+}
