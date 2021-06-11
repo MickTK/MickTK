@@ -14,6 +14,6 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](https://micktk.github.io) and ![Image](src)
 
 -
