@@ -1,11 +1,11 @@
-ul {
+.about > ul {
     align-items: center;
     text-align: left;
     margin-left: auto;
     margin-right: auto;
     max-width: 100px;
 }
-ul li {
+.about > ul li {
     margin-top: 10px;
     margin-bottom: 10px;
 }
