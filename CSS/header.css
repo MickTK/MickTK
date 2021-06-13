@@ -17,7 +17,7 @@ nav ul {
 nav ul li {
     float: left;
     margin-left: 30px;
-    margin-right: 30px;
+    margin-right: 30px
 }
 a {
     color: #74757A;
@@ -34,4 +34,16 @@ a:hover {
     -webkit-transition: color 500ms linear;
     -ms-transition: color 500ms linear;
     transition: color 500ms linear;
+}
+
+@media only screen and (max-width: 625px) {
+    nav ul {
+        display: block;
+        text-align: center;
+    }
+    nav ul li {
+        float: none;
+        margin-left: 30px;
+        margin-right: 30px;
+    }
 }
