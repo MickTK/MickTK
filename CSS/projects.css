@@ -1,5 +1,12 @@
 iframe {
     margin: auto;
-    width: 100%;
+    text-align: center;
+}
+
+.wrap { 
+    position: relative; 
+    padding-top: 0;
+    overflow: hidden;
+    margin: auto;
     text-align: center;
 }
