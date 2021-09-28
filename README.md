@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/MickTheKey" target="_blank"><h3 align="center"><i>Twitter</i></h3></a>
+  <a href="https://twitter.com/MickTheKey"><h3 align="center"><i>Twitter</i></h3></a>
 </p>
 <p align="center">
-  <a href="https://soundcloud.com/micktk" target="_blank"><h3 align="center"><i>SoundCloud</i></h3></a>
+  <a href="https://soundcloud.com/micktk"><h3 align="center"><i>SoundCloud</i></h3></a>
 </p>
 <p align="center">
-  <a href="https://codepen.io/micktk" target="_blank"><h3 align="center"><i>CodePen</i></h3></a>
+  <a href="https://codepen.io/micktk"><h3 align="center"><i>CodePen</i></h3></a>
 </p>
