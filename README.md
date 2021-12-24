@@ -1,25 +1,17 @@
 <p align="center">
-  <img src="https://i.imgur.com/6WVOtq2.gif" />
+  <img width="500px" src="https://i.imgur.com/6WVOtq2.gif" />
 </p>
 
-<br>
-<hr>
-<br>
-
 <p align="center">
-  <a href="https://twitter.com/MickTheKey"><h3 align="center"><i>Twitter</i></h3></a>
-</p>
-<p align="center">
-  <a href="https://soundcloud.com/micktk"><h3 align="center"><i>SoundCloud</i></h3></a>
-</p>
-<p align="center">
-  <a href="https://codepen.io/micktk"><h3 align="center"><i>CodePen</i></h3></a>
-</p>
-
-<br>
-<hr>
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MickTK&layout=compact&langs_count=10" />
+  <a href="https://twitter.com/MickTheKey">
+    <img style="float:left" width="30px" src="https://rpiunews.it/templates/tpl_rpiunews/images/twitter-logo.png"/>
+  </a>
+  
+  <a href="https://soundcloud.com/micktk">
+    <img style="float:left" width="30px" src="https://it.seaicons.com/wp-content/uploads/2015/06/soundcloud-icon.png"/>
+  </a>
+  
+  <a href="https://codepen.io/micktk">
+    <img style="float:left" width="30px" src="https://user-images.githubusercontent.com/63038410/147373823-50571ee9-6545-4079-b956-9f5988ae81a5.png"/>
+  </a>
 </p>
